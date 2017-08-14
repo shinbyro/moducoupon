@@ -1,5 +1,9 @@
 <?php
+
 //자 올려봅니당
+//연결시험
+//ㅇㅇㅇㅇ
+
 include_once('./_common.php');
 
 define('_INDEX_', true);
