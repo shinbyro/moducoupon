@@ -1,4 +1,5 @@
 <?php
+//자 올려봅니당
 include_once('./_common.php');
 
 define('_INDEX_', true);
